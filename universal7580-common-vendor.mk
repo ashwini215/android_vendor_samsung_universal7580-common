@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal7580-common/proprietary/lib/hw/gps.universal7580.so:system/lib/hw/gps.universal7580.so \
     vendor/samsung/universal7580-common/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
     vendor/samsung/universal7580-common/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
+    vendor/samsung/universal7580-common/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
     vendor/samsung/universal7580-common/proprietary/lib/libExynosOMX_Core.so:system/lib/libExynosOMX_Core.so \
     vendor/samsung/universal7580-common/proprietary/lib/libExynosOMX_Resourcemanager.so:system/lib/libExynosOMX_Resourcemanager.so \
     vendor/samsung/universal7580-common/proprietary/lib/libcsc.so:system/lib/libcsc.so \
